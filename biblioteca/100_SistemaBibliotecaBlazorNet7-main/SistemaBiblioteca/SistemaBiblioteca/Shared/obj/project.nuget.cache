@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mdNHgH3i+nk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eduardo\\Desktop\\100_SistemaBibliotecaBlazorNet7-main\\100_SistemaBibliotecaBlazorNet7-main\\SistemaBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
